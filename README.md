@@ -46,7 +46,7 @@ yo smartthings
 ## More about SmartThings
 
 If you are not familiar with SmartThings, we have
-[extensive on-line documentation](https://smartthings.developer.samsung.com/develop/index.html).
+[extensive online documentation](https://smartthings.developer.samsung.com/develop/index.html).
 
 To create and manage your services and devices on SmartThings, create an account in the
 [Developer Workspace](https://devworkspace.developer.samsung.com/).
